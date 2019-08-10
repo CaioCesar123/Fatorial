@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fatorial</string>
+    <string name="calcular">Calcular!</string>
+    <string name="calculadora_fatorial">Calculadora Fatorial</string>
+</resources>
